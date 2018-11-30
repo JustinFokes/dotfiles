@@ -98,8 +98,7 @@ inoremap fd <ESC>
 " Set color scheme! You can find me in colors! 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-colorscheme onedark
-set background=dark
+colorscheme atom-dark
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
